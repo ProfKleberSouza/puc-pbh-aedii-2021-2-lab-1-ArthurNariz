@@ -14,5 +14,6 @@ int main() {
   // SAIDA - IMPRIMINDO O RESULTADO
   printf("SOMA = %d\n", s);
 
-  return(0);
+  return(0); 
+  //teste
 }
